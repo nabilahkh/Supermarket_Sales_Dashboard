@@ -16,4 +16,25 @@ Analysis of supermarket data, focusing on total sales, product categories, highe
 2. The Data used is Supermarket from Mei 2014 until December 2017
 3. The Data used consist of 20 column and 994 rows
 
-#### • Data Dictionary
+### • Data Dictionary
+**1. Row ID:** Sequential number used to identify the row in the table.
+**2. Order ID:** A unique code assigned to each order.
+3. Order Date: The date when the order was placed.
+4. Ship Date: The date when the order was shipped.
+5. Ship Mode: The shipping method used (e.g., "Second Class", "Standard Class").
+6. Customer ID: A unique code assigned to each customer.
+7. Customer Name: Name of the customer who placed the order.
+8. Segment: A market segment of the customer (e.g., "Consumer", "Corporate").
+9. Country: The country where the customer is located.
+10. City: The city where the customer is located.
+11. State: State or province where the customer is located. 
+12. Postal Code: The postal code where the customer is located. 
+13. Region: Geographical region where the customer is located (e.g., "West", "South"). 
+14. Product ID: Unique code assigned to each product. 
+15. Category: Category of the product ordered (e.g., "Furniture", "Office Supplies"). 
+16. Sub-Category: A more specific sub-category of the product (e.g., "Bookcases", "Chairs"). 
+17. Product Name: Name of the product ordered. 
+18. Sales: Total sales for the item. 
+19. Quantity: Number of units of the product ordered. 
+20. Discount: Discount given on the product. 
+21. Profit: Profit generated from the sale of the product.
