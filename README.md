@@ -49,8 +49,10 @@ Analysis of supermarket data, focusing on total sales, product categories, highe
 
 ## Exploratory Data Analysis
 1. What are the sales trends from month to month?
+   <div align="center"><img src="https://github.com/nabilahkh/Supermarket_Sales_Dashboard/assets/92252191/761a3833-fab3-481f-83e2-bf8745a4e280" /></div>
+   The graph shows monthly sales fluctuations: starting at 94.9K in January, dropping to 59.8K  in February, then rebounding to 205K in March. Sales remained stable from April to July (137.8K to 155K). August saw a rise to 159K, peaking in September at 307.6K, likely due to effective marketing. After dipping to 200.3K in October, sales surged to 352.5K in November, and remained strong at 325.3K in December, indicating a strong upward trend towards year-end.
    
-3. Which state has the highest sales each month?
-4. Which segment has the highest number of customers?
-5. Which product category has the highest sales?
-6. How do profit trends change from month to month? 
+2. Which state has the highest sales each month?
+3. Which segment has the highest number of customers?
+4. Which product category has the highest sales?
+5. How do profit trends change from month to month? 
