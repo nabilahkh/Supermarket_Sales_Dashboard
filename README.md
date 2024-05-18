@@ -38,3 +38,19 @@ Analysis of supermarket data, focusing on total sales, product categories, highe
 19. Quantity: Number of units of the product ordered. 
 20. Discount: Discount given on the product. 
 21. Profit: Profit generated from the sale of the product.
+
+## Data Preparation
+1. Python Version: 3.12.3
+2. Packages: Pandas, NumPy, Matplotlib, and Seaborn
+
+## Data Cleansing
+1. Changing the data type of the 'Order Date' and 'Ship Date' columns from object to datetime.
+2. Counting the number and percentage of missing values in the columns of the 'Supermarket' dataset, then displaying them back in a new DataFrame containing such information, such as column names, the count of missing values, and the percentage of missing values in each column.
+
+## Exploratory Data Analysis
+1. What are the sales trends from month to month?
+   
+3. Which state has the highest sales each month?
+4. Which segment has the highest number of customers?
+5. Which product category has the highest sales?
+6. How do profit trends change from month to month? 
