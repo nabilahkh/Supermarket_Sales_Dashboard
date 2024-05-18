@@ -17,8 +17,8 @@ Analysis of supermarket data, focusing on total sales, product categories, highe
 3. The Data used consist of 20 column and 994 rows
 
 ### • Data Dictionary
-**1. Row ID:** Sequential number used to identify the row in the table.
-**2. Order ID:** A unique code assigned to each order.
+1. Row ID: Sequential number used to identify the row in the table.
+2. Order ID: A unique code assigned to each order.
 3. Order Date: The date when the order was placed.
 4. Ship Date: The date when the order was shipped.
 5. Ship Mode: The shipping method used (e.g., "Second Class", "Standard Class").
